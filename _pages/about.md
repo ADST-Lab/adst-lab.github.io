@@ -103,7 +103,7 @@ Alibaba is working with renowned universities at home and abroad on research int
 
 Tianchi Competition
 ---
-<img src="../images/bisaihaibao.jpg">
+<img src="/images/bisaihaibao.jpg">
 
 <b>Smart Scenario Innovation Challenge - Intelligent Algorithm Competition of the Global "Future Vehicle" 2022</b>
 
@@ -112,7 +112,7 @@ Tianchi Competition
 
 The Autopilot Simulation Competition provides multiple traffic test scenarios for the participating teams under the simulation environment, which cover common high-speed scenarios and include real accident scenarios with good typicality and generalization value. It mainly tests the decision-making ability of automatic driving vehicles in various complex traffic environments, and participants can train and evaluate the algorithmic ability of the intelligent body through the Ali simulation platform.
 
-<img src="../images/saiti.gif">
+<img src="/images/saiti.gif">
 
 
 Click <a href="https://tianchi.aliyun.com/competition/entrance/531996/information">here</a> to learn more about the detailed contest questions, scoring rules, etc.<br>
@@ -121,13 +121,13 @@ Industry Applications
 ---
 <b>First Highway Intersection HD-Map Dataset: Matrix Flyover</b>
 
-<img src="../images/shujuji3.png">
+<img src="/images/shujuji3.png">
 
 <a href="https://ntutangyun.github.io/highway-interchange-dataset-website/">Matrix Flyover</a>, a high precision map simulation dataset of high-speed hubs in China, was developed by Alibaba and Nanyang Technological in Singapore. In view of the large amount of testing required for 160,000 km expressway in China and the high cost of high-precision map generation, it is difficult to solve the problem of test generalization. The simulation map data set of high-speed hub is constructed based on simulation generation.
 
 At present, there are 1443 HD Maps, based on Hangzhou real data generalization generation, support mainstream formats (open drive & sumo & apollo), parameter sampling and generalization in line with highway junction design specifications. This Dataset filled the gap of the lack of real and high precision and generalization of hdmap in the industry, and provided the basis for the subsequent map-based construction of more abundant scene library and related automatic driving research. The relevant results were published in the robot top meeting ICRA 2023, [see details](https://arxiv.org/abs/2301.12738).
 
-<img src="../images/xjishujiedu.gif">
+<img src="/images/xjishujiedu.gif">
 
 Learn more from <a href="https://www.bilibili.com/video/BV1EL411S7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=370e92ee1e3cb377b0f7fde76d7af6f6">technical interpretation video</a>.
 
@@ -136,7 +136,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
 	<div class="l-left" data-v-662c1668="">
 		<div class="left-img" data-v-662c1668="">
-      			<img src="../images/homedongtu01.GIF" alt="" data-v-662c1668="">
+      			<img src="/images/homedongtu01.GIF" alt="" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
@@ -155,7 +155,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
 	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-      			<img src="../images/homedongtu02.GIF" alt="" data-v-662c1668="">
+      			<img src="/images/homedongtu02.GIF" alt="" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
@@ -175,7 +175,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
   	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-      			<img src="../images/zuixinHD.jpg" alt="" data-v-662c1668="">
+      			<img src="/images/zuixinHD.jpg" alt="" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
@@ -193,7 +193,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
   	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-      			<img src="../images/homedongtu04.gif" alt="" data-v-662c1668="">
+      			<img src="/images/homedongtu04.gif" alt="" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
