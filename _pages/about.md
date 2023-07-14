@@ -99,7 +99,7 @@ Cooperators
 ---
 Alibaba is working with renowned universities at home and abroad on research into autonomous driving technology. At present, the main members of the research team are as follows:
 
-<img src="../images/xxtuanduijieshao.png">
+<img src="/images/xxtuanduijieshao.png">
 
 Tianchi Competition
 ---
