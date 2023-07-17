@@ -154,7 +154,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
 	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-      			<img src="../images/homedongtu02.GIF" alt="" data-v-662c1668="">
+			![test_img](../images/homedongtu02.GIF)
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
@@ -174,7 +174,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
   	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-      			<img src="../images/zuixinHD.jpg" alt="" data-v-662c1668="">
+			![test_img](../images/zuixinHD.jpg)
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
@@ -192,7 +192,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
   	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-      			<img src="../images/homedongtu04.gif" alt="" data-v-662c1668="">
+			![test_img](../images/homedongtu04.gif)
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
