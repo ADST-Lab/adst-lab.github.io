@@ -154,8 +154,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
 	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-			<a href="https://supernick-chn.github.io/Super_Nick.github.io/">
-			<img src="../images/homedongtu02.GIF" alt="" data-v-662c1668=""></a>
+			<img src="../images/homedongtu02.GIF" alt="" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
@@ -175,8 +174,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
   	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-			<a href="https://supernick-chn.github.io/Super_Nick.github.io/">
-			<img src="../images/zuixinHD.jpg" alt="" data-v-662c1668=""></a>
+			<img src="../images/zuixinHD.jpg" alt="" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
@@ -194,8 +192,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
   	<div class="l-left" data-v-662c1668="">
     		<div class="left-img" data-v-662c1668="">
-			<a href="https://supernick-chn.github.io/Super_Nick.github.io/">
-			<img src="../images/homedongtu04.gif" alt="" data-v-662c1668=""></a>
+			<img src="../images/homedongtu04.gif" alt="" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
