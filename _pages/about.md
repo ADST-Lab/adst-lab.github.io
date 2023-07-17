@@ -135,7 +135,7 @@ Highlighted Works
 <div class="i-list" data-v-662c1668="">
 	<div class="l-left" data-v-662c1668="">
 		<div class="left-img" data-v-662c1668="">
-			<img src="../images/homedongtu01.GIF">
+			<img src="../images/homedongtu01.GIF" data-v-662c1668="">
     		</div>
   	</div>
   	<div class="l-right" data-v-662c1668="">
