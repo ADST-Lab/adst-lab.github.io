@@ -222,7 +222,7 @@ author_profile: true
 
 
 <div>
-<h1>Organizers</h1>
+<h2>Committee</h2>
             <div class="container">
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
@@ -249,6 +249,7 @@ author_profile: true
                 </div>
                 <!-- /.row -->
             </div>
+	<h2>Members</h2>
             <div class="container ">
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
