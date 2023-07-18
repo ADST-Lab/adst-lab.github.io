@@ -118,7 +118,7 @@ Industry Applications
 ---
 <b>First Highway Intersection HD-Map Dataset: Matrix Flyover</b>
 
-<div align=center><img src="../images/shujuji3.jpg" alt="" data-v-662c1668="" width=800 align=center></div>
+<div align=center><img src="../images/shujuji3.png" alt="" data-v-662c1668="" width=800 align=center></div>
 
 <a href="https://ntutangyun.github.io/highway-interchange-dataset-website/">Matrix Flyover</a>, a high precision map simulation dataset of high-speed hubs in China, was developed by Alibaba and Nanyang Technological in Singapore. In view of the large amount of testing required for 160,000 km expressway in China and the high cost of high-precision map generation, it is difficult to solve the problem of test generalization. The simulation map data set of high-speed hub is constructed based on simulation generation.
 
