@@ -141,7 +141,7 @@ Highlighted Works
       			GENERATE INTERCHANGES
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-      			Yuan Zhou, Gengjie Lin, Yun Tang, “FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing,” which is Accepted by ICRA 2023
+      			Yuan Zhou, Kairui Yang, Yun Tang, “FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing,” which is Accepted by ICRA 2023
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://arxiv.org/abs/2301.12738"><button data-v-662c1668="">Paper</button></a>
