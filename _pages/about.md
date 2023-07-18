@@ -114,7 +114,7 @@ The Autopilot Simulation Competition provides multiple traffic test scenarios fo
 
 ![test_img](../images/tianchi.gif)
 
-<a href="https://tianchi.aliyun.com/specials/promotion/Future_Car_Challenge?spm=a2c22.12281976.0.0.50923983gTk4W8">Competition</a></br> Details
+<a href="https://tianchi.aliyun.com/specials/promotion/Future_Car_Challenge?spm=a2c22.12281976.0.0.50923983gTk4W8">Competition</a> Details
 
 Industry Applications
 ---
