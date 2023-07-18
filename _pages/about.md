@@ -112,7 +112,7 @@ Tianchi Simulation Competition
 
 The Autopilot Simulation Competition provides multiple traffic test scenarios for the participating teams under the simulation environment, which cover common high-speed scenarios and include real accident scenarios with good typicality and generalization value. It mainly tests the decision-making ability of automatic driving vehicles in various complex traffic environments, and participants can train and evaluate the algorithmic ability of the intelligent body through the Ali simulation platform.
 
-![test_img](../images/tianchi.gif)
+<img src="../images/tianchi.gif" alt="" data-v-662c1668="" width=600>
 
 <a href="https://tianchi.aliyun.com/specials/promotion/Future_Car_Challenge?spm=a2c22.12281976.0.0.50923983gTk4W8">Competition</a> Details
 
@@ -126,7 +126,7 @@ Industry Applications
 
 At present, there are 1443 HD Maps, based on Hangzhou real data generalization generation, support mainstream formats (open drive & sumo & apollo), parameter sampling and generalization in line with highway junction design specifications. This Dataset filled the gap of the lack of real and high precision and generalization of hdmap in the industry, and provided the basis for the subsequent map-based construction of more abundant scene library and related automatic driving research. The relevant results were published in the robot top meeting ICRA 2023, [see details](https://arxiv.org/abs/2301.12738).
 
-<img src="../images/xjishujiedu.gif" alt="" data-v-662c1668="" width=800>
+<img src="../images/xjishujiedu.gif" alt="" data-v-662c1668="" width=600>
 
 DAMO talk: <a href="https://www.bilibili.com/video/BV1EL411S7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=370e92ee1e3cb377b0f7fde76d7af6f6">technical interpretation video</a>.
 
