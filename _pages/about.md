@@ -101,7 +101,7 @@ Alibaba is working with renowned universities at home and abroad on research int
 
 ![test_img](../images/xxtuanduijieshao.png)
 
-Tianchi Competition
+Tianchi Simulation Competition
 ---
 ![test_img](../images/bisaihaibao.jpg)
 
