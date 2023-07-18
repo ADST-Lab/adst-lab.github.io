@@ -1,4 +1,4 @@
----
+<img width="4007" alt="image" src="https://github.com/ADST-Lab/adst-lab.github.io/assets/67238871/41e26c48-4cc2-4517-bbe2-963b6a973011">---
 layout: archive
 title: "COMMITTEE" 
 permalink: /committee/
@@ -218,10 +218,18 @@ author_profile: true
 </style>
 
 
+简洁
+---
+
+自动驾驶与仿真测试专委会（CSF-ADST）隶属中国仿真学会、挂靠清华大学，发起人吴建平系清华大学土木系教授和阿里巴巴自动驾驶仿真负责人。专委会成员由企业领军人和覆盖自动驾驶、仿真、软件测试领域的核心专家和学者构成。专委会是国内自动驾驶仿真和测试领域的权威组织，对促进行业发展起到了积极作用。专委会针对自动驾驶及仿真测试这一核心领域难题，进行自动驾驶及仿真测试理论、教育、科研及应用等多方面的专业学术交流、科研合作、技术推广、专业咨询工作等，主要包括: 
+· 组织学术会议、专题研讨会、竞赛等学术活动· 编辑出版专业相关期刊、书籍和传媒制品· 提供专业相关技术咨询，承办政府委托的专业任务· 对学术成果进行专业评价咨询，推广新理论、技术、 方法· 组织开展国际学术交流和培训活动· 协助配合上级学会、部门制订相关标准、规范及技 术指南文件· 对国家相关领域政策、发展规划和重大问题发挥咨询作用 
+· 配合协助上级学会举办、开展为会员服务的相关事业 
+
 
 
 
 <div>
+
 <h2>Committee</h2>
             <div class="container">
                 <!-- Three columns of text below the carousel -->
@@ -290,15 +298,15 @@ author_profile: true
                     </div>
                     <!-- /.col-lg-4 -->
                     <div class="col"> <img src="../images/prof8.png"  width="100">
-                        <h2><a href="https://yangbaoquan.github.io/">皱纹会 公安部安全研究中心</a></h2>
+                        <h2>皱纹会</br>公安部安全研究中心</a></h2>
                         <p>Undergraduate @ SJTU</p>
                     </div>
                     <div class="col"> <img src="../images/prof9.png"  width="100">
-                        <h2><a href="https://qiaozhijian.github.io/">Zhijian Qiao</a></h2>
-                        <p>PhD @ HKUST</p>
+                        <h2>皱纹会 公安部安全研究中心</h2>
+                        <p>公安部安全研究中心</p>
                     </div>
 		    <div class="col"> <img src="../images/prof10.png"  width="100">
-                        <h2><a href="https://qiaozhijian.github.io/">Zhijian Qiao</a></h2>
+                        <h2>皱纹会 公安部安全研究中心</h2>
                         <p>PhD @ HKUST</p>
                     </div>
                     <!-- /.col-lg-4 -->
