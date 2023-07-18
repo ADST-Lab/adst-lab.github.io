@@ -290,7 +290,7 @@ author_profile: true
                     </div>
                     <!-- /.col-lg-4 -->
                     <div class="col"> <img src="../images/prof8.png"  width="100">
-                        <h2><a href="https://yangbaoquan.github.io/">Baoquan Yang</a></h2>
+                        <h2><a href="https://yangbaoquan.github.io/">皱纹会 公安部安全研究中心</a></h2>
                         <p>Undergraduate @ SJTU</p>
                     </div>
                     <div class="col"> <img src="../images/prof9.png"  width="100">
