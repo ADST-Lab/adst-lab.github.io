@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "United Autonomous Driving Research Project - Simulation Test"
+title: "Autonomous Driving Research Project - ADST"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
