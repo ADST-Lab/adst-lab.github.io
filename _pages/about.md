@@ -114,7 +114,7 @@ The Autopilot Simulation Competition provides multiple traffic test scenarios fo
 
 <img src="../images/tianchi.gif" alt="" data-v-662c1668="" width=600>
 
-<a href="https://tianchi.aliyun.com/specials/promotion/Future_Car_Challenge?spm=a2c22.12281976.0.0.50923983gTk4W8">Competition</a> Details
+<div align=center><a href="https://tianchi.aliyun.com/specials/promotion/Future_Car_Challenge?spm=a2c22.12281976.0.0.50923983gTk4W8">Competition</a> Details</div>
 
 Industry Applications
 ---
@@ -128,7 +128,7 @@ At present, there are 1443 HD Maps, based on Hangzhou real data generalization g
 
 <img src="../images/xjishujiedu.gif" alt="" data-v-662c1668="" width=600>
 
-DAMO talk: <a href="https://www.bilibili.com/video/BV1EL411S7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=370e92ee1e3cb377b0f7fde76d7af6f6">technical interpretation video</a>.
+<div align=center>DAMO<a href="https://www.bilibili.com/video/BV1EL411S7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=370e92ee1e3cb377b0f7fde76d7af6f6">talk</a>.</div>
 
 Highlighted Works
 ---
