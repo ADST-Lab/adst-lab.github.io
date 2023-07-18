@@ -162,11 +162,11 @@ Highlighted Works
       			COLLISOIN AVOIDANCE TESTING
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-      			Y. Tang, Y. Zhou, Y. Liu, J. Sun and G. Wang, “Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps,” 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 179-185</br>Y. Tang, et al., “Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification,” in 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Melbourne, Australia, 2021 pp. 1342-1346. 
+      			Y. Tang, Y. Zhou, Y. Liu, J. Sun and G. Wang, “Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps,” 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 179-185  
     		</div>
     		<div class="t-btn" data-v-662c1668="">
-      			<a href="https://ieeexplore.ieee.org/document/9575536?reason=concurrency"><button data-v-662c1668="">Paper-1</button></a>
-      			<a href="https://www.computer.org/csdl/proceedings-article/ase/2021/033700b342/1AjT6sGEmIw"><button data-v-662c1668="">Paper-2</button></a>
+      			<a href="https://ieeexplore.ieee.org/document/9575536?reason=concurrency"><button data-v-662c1668="">Paper</button></a>
+      			
       			<a href="https://flyover202305.github.io//collisoin-avoidance/"><button data-v-662c1668="">Project</button></a>
 		</div>
     	</div>
