@@ -254,28 +254,28 @@ author_profile: true
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
                     <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="../images/prof5.jpg"  width="140">
+                    <div class="col"> <img src="../images/prof5.jpg"  width="120">
                         <h2><a href="https://www.linkedin.com/in/shuaiwa253/">Shuai Wang</a></h2>
                         <p>Master @ CMU</p>
                     </div>
-                    <div class="col"> <img src="../images/prof6.jpg"  width="140">
+                    <div class="col"> <img src="../images/prof6.jpg"  width="120">
                         <h2><a href="https://www.linkedin.com/in/jiarun-wei-gemini/">Jiarun Wei</a></h2>
                         <p>AutoX</p>
                     </div>
-                    <div class="col"> <img src="../images/prof7.png"  width="140">
+                    <div class="col"> <img src="../images/prof7.png"  width="120">
                     <h2>Hassan Azmat</h2>
                     <p>Master @ CMU</p>
                     </div>
                     <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="../images/prof8.png"  width="140">
+                    <div class="col"> <img src="../images/prof8.png"  width="120">
                         <h2><a href="https://yangbaoquan.github.io/">Baoquan Yang</a></h2>
                         <p>Undergraduate @ SJTU</p>
                     </div>
-                    <div class="col"> <img src="../images/prof9.png"  width="140">
+                    <div class="col"> <img src="../images/prof9.png"  width="120">
                         <h2><a href="https://qiaozhijian.github.io/">Zhijian Qiao</a></h2>
                         <p>PhD @ HKUST</p>
                     </div>
-		    <div class="col"> <img src="../images/prof10.png"  width="140">
+		    <div class="col"> <img src="../images/prof10.png"  width="100">
                         <h2><a href="https://qiaozhijian.github.io/">Zhijian Qiao</a></h2>
                         <p>PhD @ HKUST</p>
                     </div>
