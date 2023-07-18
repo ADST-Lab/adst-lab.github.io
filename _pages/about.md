@@ -107,7 +107,7 @@ Tianchi Competition
 
 <b>Smart Scenario Innovation Challenge - Intelligent Algorithm Competition of the Global "Future Vehicle" 2022</b>
 
-<a href="https://www.bilibili.com/video/BV1zs4y1z78o/?vd_source=3fb97c18845c3bdc2c9938cffb353745">Introduction Video</a>
+<div align=center><a href="https://www.bilibili.com/video/BV1zs4y1z78o/?vd_source=3fb97c18845c3bdc2c9938cffb353745">Introduction Video</a></div>
 > As the first high-speed autonomous driving simulation Challenge in China, the competetion relies on the powerful Ali Cloud infrastructure "Cloud efficient car training", attracted more than 1,500 teams to participate, with master and Bo accounting for 15% and C9 universities accounting for 56%. One of the top judges in the autonomous driving industry and a number of professors from prestigious universities.
 
 The Autopilot Simulation Competition provides multiple traffic test scenarios for the participating teams under the simulation environment, which cover common high-speed scenarios and include real accident scenarios with good typicality and generalization value. It mainly tests the decision-making ability of automatic driving vehicles in various complex traffic environments, and participants can train and evaluate the algorithmic ability of the intelligent body through the Ali simulation platform.
