@@ -230,12 +230,12 @@ The Committee on Automatic Driving and Simulation and Testing (CSF-ADST) is affi
             <div class="container">
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
-                    <div class="col"> <img src="../images/ABCD.png" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof1.png"  width="140">
                         <h2><a href="https://hanjianghu.net/">Hanjiang Hu</a></h2>
                         <p>Ph.D. @ CMU</p>
                     </div>
                     <!-- /.col-lg-4 -->
-                    <div class="col"> <img "../images/500x300.png" class="rounded-circle" width="140">
+                    <div class="col"> <img "../images/prof2.png"  width="140">
                         <h2><a href="https://jiachengzhuml.github.io/">Jiacheng Zhu</a></h2>
                         <p>Ph.D. @ CMU</p>
                     </div>
