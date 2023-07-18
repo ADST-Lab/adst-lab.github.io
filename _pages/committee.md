@@ -232,16 +232,16 @@ author_profile: true
 			<p>清华大学教授 国家级人才计划专家</br>俄罗斯工程院(外籍)院士</br>教育部“长江学者”特聘教授</br>剑桥大学-麻省理工学院-未来交通”研究中心主任</br></p>
                     </div>
                     <!-- /.col-lg-4 -->
-                    <div class="col"> <img "../images/prof2.png"  width="140">
+                    <div class="col"> <img src="../images/prof2.png"  width="140">
                         <h2><a href="https://jiachengzhuml.github.io/">Jiacheng Zhu</a></h2>
                         <p>Ph.D. @ CMU</p>
                     </div>
                     <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="static/people-image/zuxin.jpg" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof3.png"  width="140">
                         <h2><a href="https://zuxin.me/">Zuxin Liu</a></h2>
                         <p>Ph.D. @ CMU</p>
                     </div>
-                    <div class="col"> <img src="static/people-image/wenhao.jpg" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof4.jpg"  width="140">
                         <h2><a href="https://wenhao.pub/">Wenhao Ding</a></h2>
                         <p>Ph.D. @ CMU</p>
                     </div>
@@ -249,28 +249,32 @@ author_profile: true
                 </div>
                 <!-- /.row -->
             </div>
-            <div class="container text-center p-3 text-white">
+            <div class="container ">
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
                     <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="static/people-image/shuai.png" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof5.jpg"  width="140">
                         <h2><a href="https://www.linkedin.com/in/shuaiwa253/">Shuai Wang</a></h2>
                         <p>Master @ CMU</p>
                     </div>
-                    <div class="col"> <img src="static/people-image/jiarun.JPG" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof6.jpg"  width="140">
                         <h2><a href="https://www.linkedin.com/in/jiarun-wei-gemini/">Jiarun Wei</a></h2>
                         <p>AutoX</p>
                     </div>
-                    <!--<div class="col"> <img src="${APP_PATH}/static/people-image/hassan.jpg" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof7.png"  width="140">
                     <h2>Hassan Azmat</h2>
                     <p>Master @ CMU</p>
-                </div>-->
+                    </div>
                     <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="static/people-image/baoquan.jpg" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof8.png"  width="140">
                         <h2><a href="https://yangbaoquan.github.io/">Baoquan Yang</a></h2>
                         <p>Undergraduate @ SJTU</p>
                     </div>
-                    <div class="col"> <img src="static/people-image/zhijian.jpg" class="rounded-circle" width="140">
+                    <div class="col"> <img src="../images/prof9.png"  width="140">
+                        <h2><a href="https://qiaozhijian.github.io/">Zhijian Qiao</a></h2>
+                        <p>PhD @ HKUST</p>
+                    </div>
+		    <div class="col"> <img src="../images/prof10.png"  width="140">
                         <h2><a href="https://qiaozhijian.github.io/">Zhijian Qiao</a></h2>
                         <p>PhD @ HKUST</p>
                     </div>
