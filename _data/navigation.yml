@@ -1,6 +1,8 @@
 # main links links
 main:
 
+  - title: "Committee"
+    url: /committee/
 
   - title: "Topology coverage-Guided Testing"
     url: /topology-coverage-guided/    
@@ -14,4 +16,4 @@ main:
     
   - title: "Generate interchanges"
     url: /generate-interchanges/
-    
+
