@@ -112,7 +112,7 @@ Tianchi Competition
 
 The Autopilot Simulation Competition provides multiple traffic test scenarios for the participating teams under the simulation environment, which cover common high-speed scenarios and include real accident scenarios with good typicality and generalization value. It mainly tests the decision-making ability of automatic driving vehicles in various complex traffic environments, and participants can train and evaluate the algorithmic ability of the intelligent body through the Ali simulation platform.
 
-![test_img](../images/saiti.gif)
+![test_img](../images/tianchi.gif)
 
 Click <a href="https://tianchi.aliyun.com/competition/entrance/531996/information">here</a> to learn more about the detailed contest questions, scoring rules, etc.<br>
 
