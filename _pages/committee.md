@@ -230,17 +230,17 @@ author_profile: true
         	<div class="row">
                 	<div class="col"> 
 				<img src="./pic/wujianping.jpeg"  width="140">
-                			<h2><a href="https://hanjianghu.net/">吴建平</a></h2>
-                			<p>清华大学 主任</p>
-					<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
-                    		</div>
-                    		<div class="col"> 
-					<img src="./pic/xietao.jpeg"  width="140">
-                        		<h2><a href="https://jiachengzhuml.github.io/">谢涛</a></h2>
-                			<p>北京大学 副主任</p>
-					<p>北京大学讲席教授<br>欧洲科学院(外籍)院士<br>北京大学新工科建设委员会副秘书长<br>高可信软件技术教育部重点实验室(北京大学)副主任<br></p>
-            			</div>
-			</div>
+                		<h2><a href="https://hanjianghu.net/">吴建平</a></h2>
+                		<p>清华大学 主任</p>
+				<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="./pic/xietao.jpeg"  width="140">
+                        	<h2><a href="https://jiachengzhuml.github.io/">谢涛</a></h2>
+                		<p>北京大学 副主任</p>
+				<p>北京大学讲席教授<br>欧洲科学院(外籍)院士<br>北京大学新工科建设委员会副秘书长<br>高可信软件技术教育部重点实验室(北京大学)副主任<br></p>
+    			</div>
+		</div>
 		<div class="row">
             		<div class="col"> 
 				<img src="./pic/jingwei.png"  width="140">
@@ -278,70 +278,38 @@ author_profile: true
 	</div>
  
 <h2>成员</h2>
-        <div class="container ">
-                <div class="row">
+        <div class="container">
+        	<div class="row">
                 	<div class="col"> 
-				<img src="../images/prof5.jpg"  width="100">
-                        <h2><a href="https://www.linkedin.com/in/shuaiwa253/">Shuai Wang</a></h2>
-                        <p>Master @ CMU</p>
-                    </div>
-                    <div class="col"> <img src="../images/prof6.jpg"  width="100">
-                        <h2><a href="https://www.linkedin.com/in/jiarun-wei-gemini/">Jiarun Wei</a></h2>
-                        <p>AutoX</p>
-                    </div>
-                    <div class="col"> <img src="../images/prof7.png"  width="100">
-                    <h2>Hassan Azmat</h2>
-                    <p>Master @ CMU</p>
-                    </div>
-                    <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="../images/prof8.png"  width="100">
-                        <h2>皱纹会</h2>
-                        <p>Undergraduate @ SJTU</p>
-                    </div>
-                    <div class="col"> <img src="../images/prof9.png"  width="100">
-                        <h2>皱纹会</h2>
-                        <p>公安部安全研究中心</p>
-                    </div>
-		    <div class="col"> <img src="../images/prof10.png"  width="100">
-                        <h2>皱纹会</h2>
-                        <p>PhD @ HKUST</p>
-                    </div>
-                    <!-- /.col-lg-4 -->
-                </div>
-                <!-- /.row -->
-            </div>
-            <div class="container">
-                <!-- Three columns of text below the carousel -->
-                <div class="row">
-                    <div class="col"> <img src="static/people-image/ding.jpg" class="rounded-circle mx-auto d-block" width="140">
-                        <h2 class="text-center"><a href="https://safeai-lab.github.io/">Ding Zhao</a></h2>
-                        <p class="text-center">Assistant Professor @ CMU</p>
-                    </div>
-
-                    <div class="col"> <img src="static/people-image/bo.png" class="rounded-circle d-block mx-auto" width="140">
-                        <h2 class="text-center"><a href="https://aisecure.github.io/">Bo Li</a></h2>
-                        <p class="text-cen text-center">Assistant Professor @&nbsp; UIUC</p>
-                    </div>
-                    <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="static/people-image/hesheng.png" class="rounded-circle d-block mx-auto" width="140">
-                        <h2 class="text-center"><a href="https://irmv.sjtu.edu.cn/">Hesheng Wang</a></h2>
-                        <p class="text-cen text-center">Professor @&nbsp; SJTU</p>
-                    </div>
-                    <!-- /.col-lg-4 -->
-                    <!-- /.col-lg-4 -->
-                </div>
-                <!-- /.row -->
-            </div>
-            <!-- <h2 class="text-white" >Sponsored By
-                <a href="https://global.agilex.ai/" >AgileX Robotics</a>
-            <img src="agilex_LOGO-EN.png" width="200"></h2> -->
-            
-            <h3 class="text-white">We are still looking for more sponsors. If you are interested, please contact <a href="mailto:seasondepth@outlook.com">seasondepth@outlook.com</a>.</h3>
-            <footer class="container p-5">
-                <p> Special acknowledgement to Shuai Wang due to building up the user maintenance system for our ICRA 2022 event.</p>
-                <p class="float-lg-end"><a href="#">Back to top</a></p>
-                <p class="text-white">&copy; The SeasonDepth Committee &middot; All Rights Researved.</p>
-                
-            </footer>
-        
-
+				<img src="./pic/jingwei.png"  width="140">
+                        	<h2><a href="https://zuxin.me/">敬巍</a></h2>
+                        	<p>阿里巴巴 副主任</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="./pic/maohongjun.jpg"  width="140">
+                		<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
+                		<p>南开大学 副主任</p>
+            		</div>
+			<div class="col"> 
+				<img src="./pic/wangyibing.jpg"  width="140">
+                        	<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
+                        	<p>浙江大学 副主任</p>
+                    	</div>
+			<div class="col"> 
+				<img src="./pic/jingwei.png"  width="140">
+                        	<h2><a href="https://zuxin.me/">敬巍</a></h2>
+                        	<p>阿里巴巴 副主任</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="./pic/maohongjun.jpg"  width="140">
+                		<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
+                		<p>南开大学 副主任</p>
+            		</div>
+			<div class="col"> 
+				<img src="./pic/wangyibing.jpg"  width="140">
+                        	<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
+                        	<p>浙江大学 副主任</p>
+                    	</div>
+		</div>
+		
+	</div>
