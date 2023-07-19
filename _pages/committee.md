@@ -247,6 +247,8 @@ author_profile: true
                         <p>Ph.D. @ CMU</p>
                     </div>
                     <!-- /.col-lg-4 -->
+		</div>
+		<div class="row">
                     <div class="col"> <img src="../images/prof3.png"  width="140">
                         <h2><a href="https://zuxin.me/">Zuxin Liu</a></h2>
                         <p>Ph.D. @ CMU</p>
@@ -256,14 +258,14 @@ author_profile: true
                         <p>Ph.D. @ CMU</p>
                     </div>
                     <!-- /.col-lg-4 -->
-                </div>
-                <!-- /.row -->
-		<div class="row">
                     <div class="col"> <img src="../images/prof1.png"  width="140">
                         <h2><a href="https://hanjianghu.net/">Hanjiang Hu</a></h2>
                         <p>Ph.D. @ CMU</p>
 			<p>清华大学教授 国家级人才计划专家<br>俄罗斯工程院(外籍)院士<br>教育部“长江学者”特聘教授<br>剑桥大学-麻省理工学院-未来交通”研究中心主任<br></p>
                     </div>
+		</div>
+	    	<div class="row">
+
                     <!-- /.col-lg-4 -->
                     <div class="col"> <img src="../images/prof2.png"  width="140">
                         <h2><a href="https://jiachengzhuml.github.io/">Jiacheng Zhu</a></h2>
@@ -281,7 +283,7 @@ author_profile: true
                     <!-- /.col-lg-4 -->
                 </div>            
 	    </div>
-	<h2>Members</h2>
+     <h2>成员</h2>
             <div class="container ">
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
@@ -300,15 +302,15 @@ author_profile: true
                     </div>
                     <!-- /.col-lg-4 -->
                     <div class="col"> <img src="../images/prof8.png"  width="100">
-                        <h2>皱纹会</br>公安部安全研究中心</a></h2>
+                        <h2>皱纹会</h2>
                         <p>Undergraduate @ SJTU</p>
                     </div>
                     <div class="col"> <img src="../images/prof9.png"  width="100">
-                        <h2>皱纹会 公安部安全研究中心</h2>
+                        <h2>皱纹会</h2>
                         <p>公安部安全研究中心</p>
                     </div>
 		    <div class="col"> <img src="../images/prof10.png"  width="100">
-                        <h2>皱纹会 公安部安全研究中心</h2>
+                        <h2>皱纹会</h2>
                         <p>PhD @ HKUST</p>
                     </div>
                     <!-- /.col-lg-4 -->
