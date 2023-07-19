@@ -228,6 +228,7 @@ author_profile: true
 成员
 ---
 
+<div>
 <h2>理事</h2>
 	<div class="container">
         	<div class="row">
@@ -539,3 +540,4 @@ author_profile: true
                     	</div>
 		</div>
 	</div>
+</div>
