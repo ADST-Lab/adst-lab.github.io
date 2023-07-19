@@ -241,47 +241,47 @@ author_profile: true
 					<p>北京大学讲席教授<br>欧洲科学院(外籍)院士<br>北京大学新工科建设委员会副秘书长<br>高可信软件技术教育部重点实验室(北京大学)副主任<br></p>
             			</div>
 			</div>
-			<div class="row">
-            			<div class="col"> 
-					<img src="./pic/jingwei.png"  width="140">
-                        		<h2><a href="https://zuxin.me/">敬巍</a></h2>
-                        		<p>阿里巴巴 副主任</p>
-                    		</div>
-                    		<div class="col"> 
-					<img src="./pic/maohongjun.jpg"  width="140">
-                			<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
-                			<p>南开大学 副主任</p>
-            			</div>
-				<div class="col"> 
-					<img src="./pic/wangyibing.jpg"  width="140">
-                        		<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
-                        		<p>浙江大学 副主任</p>
-                    		</div>
-               		</div>
-			<div class="row">
-                    		<div class="col"> 
-					<img src="./pic/hanxu.jpg"  width="140">
-                        		<h2><a href="https://zuxin.me/">韩旭</a></h2>
-                        		<p>文远知行 副主任</p>
-                    		</div>
-                    		<div class="col"> 
-					<img src="./pic/yangkairui.png"  width="140">
-                        		<h2><a href="https://wenhao.pub/">杨开睿</a></h2>
-                        		<p>菜鸟自动驾驶实验室 秘书</p>
-                    		</div>
-				<div class="col"> 
-					<img src="./pic/huangling.png"  width="140">
-                        		<h2><a href="https://wenhao.pub/">黄玲</a></h2>
-                        		<p>华南理工大学 秘书</p>
-                    		</div>           
-			</div>
+		<div class="row">
+            		<div class="col"> 
+				<img src="./pic/jingwei.png"  width="140">
+                        	<h2><a href="https://zuxin.me/">敬巍</a></h2>
+                        	<p>阿里巴巴 副主任</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="./pic/maohongjun.jpg"  width="140">
+                		<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
+                		<p>南开大学 副主任</p>
+            		</div>
+			<div class="col"> 
+				<img src="./pic/wangyibing.jpg"  width="140">
+                        	<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
+                        	<p>浙江大学 副主任</p>
+                    	</div>
+               	</div>
+		<div class="row">
+                    	<div class="col"> 
+				<img src="./pic/hanxu.jpg"  width="140">
+                        	<h2><a href="https://zuxin.me/">韩旭</a></h2>
+                		<p>文远知行 副主任</p>
+                    	</div>
+                    	<div class="col"> 
+				<img src="./pic/yangkairui.png"  width="140">
+                		<h2><a href="https://wenhao.pub/">杨开睿</a></h2>
+                		<p>菜鸟自动驾驶实验室 秘书</p>
+                    	</div>
+			<div class="col"> 
+				<img src="./pic/huangling.png"  width="140">
+                        	<h2><a href="https://wenhao.pub/">黄玲</a></h2>
+                        	<p>华南理工大学 秘书</p>
+                    	</div>           
+		</div>
+	</div>
  
 <h2>成员</h2>
-            <div class="container ">
-                <!-- Three columns of text below the carousel -->
+        <div class="container ">
                 <div class="row">
-                    <!-- /.col-lg-4 -->
-                    <div class="col"> <img src="../images/prof5.jpg"  width="100">
+                	<div class="col"> 
+				<img src="../images/prof5.jpg"  width="100">
                         <h2><a href="https://www.linkedin.com/in/shuaiwa253/">Shuai Wang</a></h2>
                         <p>Master @ CMU</p>
                     </div>
