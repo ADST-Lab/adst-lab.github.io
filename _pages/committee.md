@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CSF-ADST" 
-permalink: /Committee/
+permalink: /committee/
 author_profile: true
 ---
 
