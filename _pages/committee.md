@@ -251,19 +251,19 @@ author_profile: true
                         	<p>阿里巴巴 副主任</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="150">
+				<img src="../images/maohongjun.png"  width="150">
                 		<h2><a href="https://wenhao.pub/">毛洪钧</a></h2>
                 		<p>南开大学 副主任</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="150">
+				<img src="../images/wangyibing.png"  width="150">
                         	<h2><a href="https://wenhao.pub/">王亦兵</a></h2>
                         	<p>浙江大学 副主任</p>
                     	</div>
                	</div>
 		<div class="row">
                     	<div class="col"> 
-				<img src="../images/hanxu.jpg"  width="150">
+				<img src="../images/hanxu.png"  width="150">
                         	<h2><a href="https://zuxin.me/">韩旭</a></h2>
                 		<p>文远知行 副主任</p>
                     	</div>
@@ -284,256 +284,256 @@ author_profile: true
         <div class="container">
         	<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/kongqizhi.png"  width="100">
                         	<h2><a href="https://zuxin.me/">孔旗帜</a></h2>
                         	<p>九识智能</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/luolin.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">罗琳</a></h2>
                 		<p>文远知行</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/xiatian.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">夏添</a></h2>
                         	<p>白犀牛</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/shexiaoli.png"  width="100">
                         	<h2><a href="https://zuxin.me/">佘晓丽</a></h2>
                         	<p>蔚来汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/zhaoshuai.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">赵帅</a></h2>
                 		<p>中汽智联</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/wangyibing.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">潘余曦</a></h2>
                         	<p>深信科创</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/panyifeng.png"  width="100">
                         	<h2><a href="https://zuxin.me/">潘屹峰</a></h2>
                         	<p>鉴智科技</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/yusiyang.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">YuSiyang</a></h2>
                 		<p>Cruise</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/shandan.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">单单</a></h2>
                         	<p>百度</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/sunhanjie.png"  width="100">
                         	<h2><a href="https://zuxin.me/">孙寒杰</a></h2>
                         	<p>美团</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/fangtao.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">方涛</a></h2>
                 		<p>Momenta</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/liuyunfu.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">刘云夫</a></h2>
                         	<p>易控智驾</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/fuyiqun.png"  width="100">
                         	<h2><a href="https://zuxin.me/">傅轶群</a></h2>
                         	<p>AutoX</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/lvbaogui.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">吕宝贵</a></h2>
                 		<p>滴滴</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/zhou.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">George Zhou</a></h2>
                         	<p>蔚来汽车</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/fengzongbao.png"  width="100">
                         	<h2><a href="https://zuxin.me/">冯宗宝</a></h2>
                         	<p>理想汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/zhoujianwen.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">周剑文</a></h2>
                 		<p>小米</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/yexiaoqian.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">叶晓倩</a></h2>
                         	<p>上汽大众</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/luoyonggang.png"  width="100">
                         	<h2><a href="https://zuxin.me/">罗咏刚</a></h2>
                         	<p>长安汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/moukangwei.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">牟康伟</a></h2>
                 		<p>挚途科技</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/luanmingyong.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">栾铭湧</a></h2>
                         	<p>中国重汽</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/huangdongze.png"  width="100">
                         	<h2><a href="https://zuxin.me/">黄栋泽</a></h2>
                         	<p>零跑汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/luofengshan.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">罗丰山</a></h2>
                 		<p>东风汽车</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/wangruoyu.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">王若羽</a></h2>
                         	<p>长城汽车</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/lilinhui.png"  width="100">
                         	<h2><a href="https://zuxin.me/">李琳辉</a></h2>
                         	<p>大工汽车</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/luwenjie.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">陆文杰</a></h2>
                 		<p>公安部无锡所</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/zhouwenhui.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">周文辉</a></h2>
                         	<p>公安部安全中心</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/zhangmiao.png"  width="100">
                         	<h2><a href="https://zuxin.me/">张淼</a></h2>
                         	<p>中汽中心</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/huangwuling.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">黄武陵</a></h2>
                 		<p>中科院雄安</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/zhangtao.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">张涛</a></h2>
                         	<p>快手</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/fengwei.png"  width="100">
                         	<h2><a href="https://zuxin.me/">冯伟</a></h2>
                         	<p>天津大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/pengxin.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">彭鑫</a></h2>
                 		<p>复旦大学</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/xiexiaoyuan.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">谢晓圆</a></h2>
                         	<p>武汉大学</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/wanghong.png"  width="100">
                         	<h2><a href="https://zuxin.me/">王红</a></h2>
                         	<p>清华大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/chenyin.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">陈音</a></h2>
                 		<p>北汽研究院</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/lindi.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">林迪</a></h2>
                         	<p>北京大学</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/linditj.png"  width="100">
                         	<h2><a href="https://zuxin.me/">林迪</a></h2>
                         	<p>天津大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/guoqing.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">郭青</a></h2>
                 		<p>新加坡科技局</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/lvchen.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">吕辰</a></h2>
                         	<p>新加坡南洋理工</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/xiexiaofei.png"  width="100">
                         	<h2><a href="https://zuxin.me/">谢肖飞</a></h2>
                         	<p>新加坡管理大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/zhouyuan.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">周远</a></h2>
                 		<p>新加坡南洋理工</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/zhangronghui.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">张荣辉</a></h2>
                         	<p>中山大学</p>
                     	</div>
 		</div>
 		<div class="row">
                 	<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/qigeqi.png"  width="100">
                         	<h2><a href="https://zuxin.me/">奇格奇</a></h2>
                         	<p>北京交通大学</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/xuming.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">许明</a></h2>
                 		<p>辽宁工程技术</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/jiangzhihao.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">江智浩</a></h2>
                         	<p>上海科技大学</p>
                     	</div>
 			<div class="col"> 
-				<img src="../images/jingwei.png"  width="100">
+				<img src="../images/liping.png"  width="100">
                         	<h2><a href="https://zuxin.me/">李平</a></h2>
                         	<p>通达智源</p>
                     	</div>
                     	<div class="col"> 
-				<img src="../images/maohongjun.jpg"  width="100">
+				<img src="../images/liwenbo.png"  width="100">
                 		<h2><a href="https://wenhao.pub/">李文博</a></h2>
                 		<p>北汽研究院</p>
             		</div>
 			<div class="col"> 
-				<img src="../images/wangyibing.jpg"  width="100">
+				<img src="../images/zhangjingyi.png"  width="100">
                         	<h2><a href="https://wenhao.pub/">张静宜</a></h2>
                         	<p>北汽研究院</p>
                     	</div>
