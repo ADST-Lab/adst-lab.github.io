@@ -183,7 +183,7 @@ Highlighted Works
      			Natural-language-driven Simulation Benchmark and Copilot for Efficient Production of Object Interactions in Virtual Road Scenes. Kairui Yang ,Di Lin, Preprint 2023
     		</div>
     		<div class="t-btn" data-v-662c1668="">
-      			<a href="https://arxiv.org/pdf/2402.18393v1"><button data-v-662c1668="">Paper</button></a>	 
+      			<a href="https://arxiv.org/pdf/2312.04008"><button data-v-662c1668="">Paper</button></a>	 
     		</div>
   	</div>
 </div>
