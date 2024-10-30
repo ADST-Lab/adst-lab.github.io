@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Autonomous Driving Research Project - ADST"
+title: "Autonomous Driving Research Project - ADST11"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
