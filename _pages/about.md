@@ -149,6 +149,25 @@ Highlighted Works
     		</div>
   	</div>
 </div>
+
+<div class="i-list" data-v-662c1668="">
+	<div class="l-left" data-v-662c1668="">
+		<div class="left-img" data-v-662c1668="">
+      			<img src="../images/hometupiannld-2024.png" alt="" data-v-662c1668="">
+    		</div>
+  	</div>
+  	<div class="l-right" data-v-662c1668="">
+    		<div class="r-top" data-v-662c1668="">
+      			SimCopilot Dataset NLD
+    		</div>
+    		<div class="r-cont" data-v-662c1668="">
+     			Natural-language-driven Simulation Benchmark and Copilot for Efficient Production of Object Interactions in Virtual Road Scenes. Kairui Yang ,Di Lin, Preprint 2024
+    		</div>
+    		<div class="t-btn" data-v-662c1668="">
+      			<a href="https://arxiv.org/pdf/2402.18393v1"><button data-v-662c1668="">Paper</button></a>	 
+    		</div>
+  	</div>
+</div>
 <div class="i-list" data-v-662c1668="">
 	<div class="l-left" data-v-662c1668="">
 		<div class="left-img" data-v-662c1668="">
