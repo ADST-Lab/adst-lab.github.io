@@ -82,7 +82,7 @@ redirect_from:
 }
 </style>
 
-Introduction12
+Introduction122
 ---
 <p>The <b>Autonomous Driving Simulation Tests </b>use a variety of simulation techniques to test autonomous driving technologies in multiple dimensions. Simulation testing is a basic key technology for autonomous driving R&D. Compared with the real road test, which has high cost, many restrictions and low efficiency, virtual simulation system can provide richer and more diverse static environments and continuous dynamic random traffic flow, which can effectively increase the frequency and density of high test/training value scenes within the limited virtual test mileage, and it has become the common demand for the research and development of automated driving systems by most domestic and foreign enterprises.</p>
 <p>Since its establishment, <b><font color='#ff6a00'>Alibaba Autonomous Driving Lab</font></b> has been committed to the development and testing of autonomous driving technology, with outstanding achievements. Currently, our research interests are as follows:</p>
