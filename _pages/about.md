@@ -196,7 +196,7 @@ Highlighted Works
   	</div>
   	<div class="l-right" data-v-662c1668="">
     		<div class="r-top" data-v-662c1668="">
-      			GENERATE INTERCHANGES
+      			Highway Map Dataset Flyover
     		</div>
     		<div class="r-cont" data-v-662c1668="">
       			Yuan Zhou, Kairui Yang, Yun Tang, “FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing,” which is Accepted by ICRA 2023
@@ -260,7 +260,9 @@ Highlighted Works
       			This work is currently under review. More details will be released later.
     		</div>
     		<div class="t-btn" data-v-662c1668="">
+			<a href="https://arxiv.org/pdf/2206.09357"><button data-v-662c1668="">Paper</button></a>
        			<a href="https://adst-lab.github.io//HD-map-generation/"><button data-v-662c1668="">Project</button></a>
+			
     		</div>
   	</div>
 </div>
