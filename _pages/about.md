@@ -138,7 +138,7 @@ Highlighted Works
   	</div>
   	<div class="l-right" data-v-662c1668="">
     		<div class="r-top" data-v-662c1668="">
-      			SimCopilot Dataset NLD
+      			Trajectory-LLM
     		</div>
     		<div class="r-cont" data-v-662c1668="">
      			Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving. Kairui Yang,Zihao Guo,Di Lin, ICLR 2025.
