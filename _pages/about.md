@@ -141,7 +141,7 @@ Highlighted Works
       			Trajectory-LLM
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-     			Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving. Kairui Yang,Zihao Guo,Di Lin, ICLR 2025.
+     			Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving. Kairui Yang, Zihao Guo, Di Lin, ICLR 2025.
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://arxiv.org/pdf/2312.04008"><button data-v-662c1668="">Paper</button></a>	 
@@ -159,7 +159,7 @@ Highlighted Works
       			VPNet
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-     			Voxel Proposal Network via Multi-Frame Knowledge Distillation for Semantic Scene Completion. Lubo Wang, Kairui Yang ,Di Lin. NeurIPS 2024(CCF-A).
+     			Voxel Proposal Network via Multi-Frame Knowledge Distillation for Semantic Scene Completion. Lubo Wang, Di Lin, Kairui Yang. NeurIPS 2024(CCF-A).
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://nips.cc/virtual/2024/poster/96957"><button data-v-662c1668="">Paper</button></a>	 
