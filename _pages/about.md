@@ -130,7 +130,24 @@ At present, there are 1443 HD Maps, based on Hangzhou real data generalization g
 
 Highlighted Works
 ---
-
+<div class="i-list" data-v-662c1668="">
+	<div class="l-left" data-v-662c1668="">
+		<div class="left-img" data-v-662c1668="">
+      			<img src="../images/hometupianvpnetTRAJECTORY-ICLR2025.png" alt="" data-v-662c1668="">
+    		</div>
+  	</div>
+  	<div class="l-right" data-v-662c1668="">
+    		<div class="r-top" data-v-662c1668="">
+      			TRAJECTORY-LLM
+    		</div>
+    		<div class="r-cont" data-v-662c1668="">
+     			 A LANGUAGE-BASED DATA GENERATOR FOR TRAJECTORY PREDICTION IN AUTONOMOUS DRIVING, Kairui Yang ,Di Lin, ICLR 2025
+    		</div>
+    		<div class="t-btn" data-v-662c1668="">
+      			<a href="https://openreview.net/pdf?id=UapxTvxB3N"><button data-v-662c1668="">Paper</button></a>	 
+    		</div>
+  	</div>
+</div>
 <div class="i-list" data-v-662c1668="">
 	<div class="l-left" data-v-662c1668="">
 		<div class="left-img" data-v-662c1668="">
