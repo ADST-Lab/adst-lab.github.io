@@ -141,7 +141,7 @@ Highlighted Works
       			SimCopilot Dataset NLD
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-     			Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving. Kairui Yang ,Di Lin, ICLR 2025
+     			Trajectory-LLM: A Language-based Data Generator for Trajectory Prediction in Autonomous Driving. Kairui Yang,Zihao Guo,Di Lin, ICLR 2025.
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://arxiv.org/pdf/2312.04008"><button data-v-662c1668="">Paper</button></a>	 
@@ -159,7 +159,7 @@ Highlighted Works
       			VPNet
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-     			Voxel Proposal Network via Multi-Frame Knowledge Distillation for Semantic Scene Completion,Lubo Wang, Kairui Yang ,Di Lin, NeurIPS 2024
+     			Voxel Proposal Network via Multi-Frame Knowledge Distillation for Semantic Scene Completion. Lubo Wang, Kairui Yang ,Di Lin. NeurIPS 2024(CCF-A).
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://nips.cc/virtual/2024/poster/96957"><button data-v-662c1668="">Paper</button></a>	 
@@ -179,7 +179,7 @@ Highlighted Works
       			Metamorphic Testing
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-     			Mingfei Cheng, Yuan Zhou, Xiaofei Xie, Kairui Yang.Evaluating Decision Optimality of Autonomous Driving via Metamorphic Testing, ASE(CCF-A), 2024
+     			Evaluating Decision Optimality of Autonomous Driving via Metamorphic Testing. Mingfei Cheng, Yuan Zhou, Xiaofei Xie, Kairui Yang. ASE 2024(CCF-A).
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://arxiv.org/pdf/2402.18393v1"><button data-v-662c1668="">Paper</button></a>	 
@@ -199,7 +199,7 @@ Highlighted Works
       			Highway Map Dataset Flyover
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-      			Yuan Zhou, Kairui Yang, Yun Tang, “FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing,” which is Accepted by ICRA 2023
+      			FLYOVER: A Model-Driven Method to Generate Diverse Highway Interchanges for Autonomous Vehicle Testing.Yuan Zhou, Kairui Yang, Yun Tang. ICRA 2023(CCF-B). 
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://arxiv.org/abs/2301.12738"><button data-v-662c1668="">Paper</button></a>
@@ -218,7 +218,7 @@ Highlighted Works
       			TOPOLOGY COVERAGE-GUIDED TESTING
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-     			Y. Tang et al., “Route Coverage Testing for Autonomous Vehicles via Map Modeling,” 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 11450-11456
+     			Route Coverage Testing for Autonomous Vehicles via Map Modeling.Y. Tang et al. ICRA 2021(CCF-B).
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://ieeexplore.ieee.org/document/9560890?reason=concurrency"><button data-v-662c1668="">Paper</button></a>
@@ -237,7 +237,7 @@ Highlighted Works
       			COLLISOIN AVOIDANCE TESTING
     		</div>
     		<div class="r-cont" data-v-662c1668="">
-      			Y. Tang, Y. Zhou, Y. Liu, J. Sun and G. Wang, “Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps,” 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 179-185  
+      			Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps. Y. Tang, Y. Zhou, Y. Liu, J. Sun and G. Wang. 2021 IEEE Intelligent Vehicles Symposium (IV). 
     		</div>
     		<div class="t-btn" data-v-662c1668="">
       			<a href="https://ieeexplore.ieee.org/document/9575536?reason=concurrency"><button data-v-662c1668="">Paper</button></a>
